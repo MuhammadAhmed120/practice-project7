@@ -302,7 +302,7 @@ body {
 
 .cards-wrapper {
     margin-top: 30px;
-    /* display: flex; */
+    display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -310,9 +310,9 @@ body {
 }
 
 .cards-con {
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-    /* width: 80%; */
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
     justify-content: space-evenly;
     align-items: center;
     gap: 4rem;
@@ -320,7 +320,7 @@ body {
 }
 
 .cards {
-    /* display: flex; */
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
